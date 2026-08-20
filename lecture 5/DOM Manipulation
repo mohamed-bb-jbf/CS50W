@@ -1,0 +1,4 @@
+document.getElementById("myId").innerText = "New text";
+document.querySelector(".myClass").addEventListener("click", () => {
+  alert("Clicked!");
+});
