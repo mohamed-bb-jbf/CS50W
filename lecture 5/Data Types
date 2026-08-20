@@ -1,0 +1,5 @@
+let text = "hello";
+let number = 42;
+let isTrue = true;
+let list = [1, 2, 3];
+let obj = { name: "Ali", age: 20 };
